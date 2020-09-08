@@ -1,1 +1,20 @@
 Hello Git and GitHub
+
+Hamlet: Act 1, Scene 5
+
+Enter Ghost and Hamlet
+
+Hamlet:
+Where wilt thou lead me? speak; I'll go no further
+
+Ghost:
+Mark me.
+
+Hamlet:
+I will.
+
+Ghost: 
+My hour is almost come,
+When I to sulphurous and tormenting flames
+Must render up myself.
+
